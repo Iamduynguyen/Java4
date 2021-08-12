@@ -1,0 +1,10 @@
+<script src="<c:url value="/Template/Admin/assets/js/vendor.min.js"/>"></script>
+<script src="<c:url value="/Template/Admin/assets/libs/moment/moment.min.js"/>"></script>
+<script src="<c:url value="/Template/Admin/assets/libs/jquery-scrollto/jquery.scrollTo.min.js"/>"></script>
+<script src="<c:url value="/Template/Admin/assets/libs/sweetalert2/sweetalert2.min.js"/>"></script>
+<script src="<c:url value="/Template/Admin/assets/js/pages/dashboard.init.js"/>"></script>
+<script src="<c:url value="/Template/Admin/assets/js/app.min.js"/>"></script>
+<script src="<c:url value="/Template/Admin/assets/libs/morris-js/morris.min.js"/>"></script>
+<script src="<c:url value="/Template/Admin/assets/libs/raphael/raphael.min.js"/>"></script>
+<script src="<c:url value="/Template/Admin/assets/libs/raphael/raphael.min.js"/>"></script>
+<script src="<c:url value="/Template/Admin/assets/js/pages/sparkline.init.js"/>"></script>
